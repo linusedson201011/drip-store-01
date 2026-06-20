@@ -1,0 +1,10 @@
+@media(width >= 480px){
+    header{
+        background-color: black;
+    }
+}
+@media(width >= 720px){
+    header{
+        background-color: rgb(15, 12, 115);
+    }
+}
